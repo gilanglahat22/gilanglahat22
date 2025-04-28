@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Muhammad Gilang Ramadhan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Security+Analyst;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Tech+Enthusiast;Distributed+System" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,12 +14,11 @@
 <div align="center">
   <h2>Software Engineer from Bandung Institute of Technology</h2>
   <p>Specializing in backend development, distributed systems, and mathematical problems.</p>
-  <p>📧 muhgilangramadhan.3011@gmail.com | 📱 +62-823-8221-1182 | 📍 Bandung, West Java</p>
 </div>
 
 ## 💻 About Me
 
-- 🎓 Studying at **Bandung Institute of Technology (ITB)** (August 2020 - July 2025 Expected)
+- 🎓 Studying at **Bandung Institute of Technology (ITB)**
 - 🎯 Bachelor Engineering of Informatics
 - 💼 Currently working as a **Research and Development Engineer at MarkAny** (April 2023 - Present)
 - 🔬 Research on optimizing blockchain's Avalanche consensus protocol using dynamic directed acyclic graphs
@@ -74,27 +73,11 @@
 | Position | Company | Duration | 
 |----------|---------|----------|
 | Research and Development Engineer | MarkAny | April 2023 - Present |
-| Junior Software Engineer | PT Fada Organa Solusi | July 2024 - March 2025 |
-| Full Stack Developer | Felina Labs | August 2023 - Present |
-| Web Developer | PT Fada Organa Solusi | December 2021 - June 2023 |
-| Software Engineer | PT Surimedia Kreasi Indonesia | May 2023 - November 2023 |
+| Junior Software Engineer | PT Fata Organa Solusi | July 2024 - March 2025 |
+| Full Stack Developer | Feline Labs | August 2023 - Present |
+| Web Developer | PT Fata Organa Solusi | December 2021 - June 2023 |
+| Software Engineer | PT Suitmedia Kreasi Indonesia | May 2023 - November 2023 |
 | Machine Learning Engineer (Bootcamp) | Bangkit Academy | August 2022 - December 2022 |
-
-## 🏆 Achievements
-
-- Finalist of ICPC Asia Jakarta 2021
-- Top 40 Indonesia National Contest 2021
-- Preseta of Gemastik XV Divisi Pemrograman 2022
-- 4th ITB Gemastik Competitive Programming Contest 2022
-
-## 🔍 Selected Projects
-
-| Project | Description | URL |
-|---------|-------------|-----|
-| Corporatematching Website - Hashigake for CAC | Concurrent Wikipedia mapping with Go | [https://corporate.hashigake.io](https://corporate.hashigake.io) |
-| Pondering Circle Website | Internal Voting Website for CAC English Employees | [https://pondering-circle.com](https://pondering-circle.com) |
-| Avalanche Consensus Service | Blockchain consensus protocol implementation | [GitHub](https://github.com/gilanglahat22) |
-| MultiRace Ranking BFS and BFS Algorithm | Wikipedia article connections with graph algorithms | [GitHub](https://github.com/gilanglahat22) |
 
 ## 📫 Let's Connect!
 
