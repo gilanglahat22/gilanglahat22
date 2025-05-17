@@ -14,6 +14,7 @@
 <div align="center">
   <h2>Software Engineer from Bandung Institute of Technology</h2>
   <p>Specializing in backend development, distributed systems, and mathematical problems.</p>
+  <p>Have interest in AI, Blockchain, and Infrastructure System.</p>
 </div>
 
 ## 💻 About Me
