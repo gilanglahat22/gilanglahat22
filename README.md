@@ -73,6 +73,7 @@
 
 | Position | Company | Duration | 
 |----------|---------|----------|
+| Fullstack Engineer | One Code Solution | June 2023 - Present |
 | Research and Development Engineer | MarkAny | April 2023 - May 2025 |
 | Junior Software Engineer | PT Fata Organa Solusi | July 2024 - March 2025 |
 | Full Stack Developer | Feline Labs | August 2023 - March 2025 |
