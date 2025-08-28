@@ -17,15 +17,6 @@
   <p>Have interest in AI, Blockchain, and Infrastructure System.</p>
 </div>
 
-## 💻 About Me
-
-- 🎓 Studying at **Bandung Institute of Technology (ITB)**
-- 🎯 Bachelor Engineering of Informatics
-- 💼 Currently working as a **Research and Development Engineer at MarkAny** (April 2023 - May 2023)
-- 🔬 Research on optimizing blockchain's Avalanche consensus protocol using dynamic directed acyclic graphs
-- 🌱 Always learning and exploring new technologies
-- 🌍 Based in **Bandung, West Java, Indonesia**
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
