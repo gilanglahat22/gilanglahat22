@@ -69,23 +69,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 💼 Work Experience
-
-| Position | Company | Duration | 
-|----------|---------|----------|
-| Fullstack Engineer | One Code Solution | June 2023 - Present |
-| Research and Development Engineer | MarkAny | April 2023 - May 2025 |
-| Junior Software Engineer | PT Fata Organa Solusi | July 2024 - March 2025 |
-| Full Stack Developer | Feline Labs | August 2023 - March 2025 |
-| Web Developer | PT Fata Organa Solusi | December 2021 - June 2023 |
-| Software Engineer | PT Suitmedia Kreasi Indonesia | May 2023 - November 2023 |
-| Machine Learning Engineer (Bootcamp) | Bangkit Academy | August 2022 - December 2022 |
-
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations, technical inquiries, or just a friendly chat!
 - 💼 LinkedIn: [Muhammad Gilang Ramadhan](https://www.linkedin.com/in/muhammad-gilang-ramadhan-54b58a20b)
-- 👨‍💻 GitHub: [gilanglahat22](https://github.com/gilanglahat22)
-- 🏆 Codeforces: [NoDrop30](https://codeforces.com/profile/NoDrop30)
-- 🏆 TLX Toki: [impresionpti](https://tlx.toki.id/profiles/impresionpti)
-- 🏆 Gemastik: [Certificate](https://www.linkedin.com/in/muhammad-gilang-ramadhan-54b58a20b/details/certifications/1738303065136/single-media-viewer/?profileId=ACoAADVM-osBxaALQRCedj4NExDzmKmAzGyAnKY)
