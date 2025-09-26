@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <h2>Software Engineer with flexible to adapt with new technology</h2>
+  <h2>Software Engineer with flexibility to adapt with new technology</h2>
   <p>Specializing in backend development, distributed systems, and mathematical problems.</p>
   <p>Have interest in AI, Blockchain, and Infrastructure System.</p>
 </div>
