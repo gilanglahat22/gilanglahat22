@@ -14,7 +14,7 @@
 <div align="center">
   <h2>Software Engineer with flexibility to adapt with new technology</h2>
   <p>Specializing in backend development, distributed systems, and mathematical problems.</p>
-  <p>Have interest in AI, Blockchain, and Infrastructure System.</p>
+  <p>Have interest in AI and Competitive Programming.</p>
 </div>
 
 ## 📫 Let's Connect!
