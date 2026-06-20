@@ -67,49 +67,11 @@ gilang@linux:~$ uptime --pretty
 learning, building, debugging, improving
 ```
 
-## `~/workspace`
-
-```bash
-gilang@linux:~$ tree -L 2 ~/workspace
-/home/gilang/workspace
-|-- backend/
-|   |-- api-design
-|   |-- service-architecture
-|   `-- database-flows
-|-- distributed-systems/
-|   |-- scalability
-|   |-- reliability
-|   `-- observability
-|-- problem-solving/
-|   |-- algorithms
-|   |-- mathematics
-|   `-- competitive-programming
-`-- ai/
-    |-- practical-features
-    `-- developer-productivity
-```
-
 ## `~/toolbox`
 
 <p>
   <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,python,java,cpp,postgres,mongodb,redis,docker,linux,git,github,vercel&perline=8" alt="Tech stack icons" />
 </p>
-
-```bash
-gilang@linux:~$ pacman -Q skills
-backend-engineering       latest
-distributed-systems       latest
-database-design           latest
-algorithmic-thinking      latest
-linux-workflow            latest
-ai-exploration            latest
-
-gilang@linux:~$ grep -r "principles" ~/mindset
-clarity first
-ship thoughtfully
-measure what matters
-make developer experience pleasant
-```
 
 ## `~/connect`
 
