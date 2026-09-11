@@ -44,6 +44,7 @@ gilang@linux
 ------------
 Name      : Muhammad Gilang Ramadhan
 Role      : Software Engineer
+Work      : Backend Developer @ <a href="https://www.linkedin.com/company/lndata/posts/?feedView=all">LnData Inc</a>
 Focus     : Backend, Distributed Systems, AI
 Mindset   : Reliable, maintainable, user-friendly
 Hobbies   : Math problems, competitive programming
@@ -70,6 +71,20 @@ easy to understand, easy to maintain, and comfortable to use.
 gilang@linux:~$ uptime --pretty
 learning, building, debugging, improving
 ```
+
+## `~/experience`
+
+```bash
+gilang@linux:~$ cat experience.yaml
+- role: Backend Developer
+  company: LnData Inc
+  stack: [Java, Spring Boot]
+  focus: middleware integrating 4 AI products
+```
+
+<p>
+  <a href="https://www.linkedin.com/company/lndata/posts/?feedView=all"><img src="https://img.shields.io/badge/LnData_Inc-Backend_Developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101418" alt="LnData Inc on LinkedIn"></a>
+</p>
 
 ## `~/toolbox`
 
