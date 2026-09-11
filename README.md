@@ -44,7 +44,6 @@ gilang@linux
 ------------
 Name      : Muhammad Gilang Ramadhan
 Role      : Software Engineer
-Work      : Backend Developer @ <a href="https://www.linkedin.com/company/lndata/posts/?feedView=all">LnData Inc</a>
 Focus     : Backend, Distributed Systems, AI
 Mindset   : Reliable, maintainable, user-friendly
 Hobbies   : Math problems, competitive programming
@@ -75,16 +74,17 @@ learning, building, debugging, improving
 ## `~/experience`
 
 ```bash
-gilang@linux:~$ cat experience.yaml
-- role: Backend Developer
-  company: LnData Inc
-  stack: [Java, Spring Boot]
-  focus: middleware integrating 4 AI products
+gilang@linux:~$ cat experience.log
 ```
 
-<p>
-  <a href="https://www.linkedin.com/company/lndata/posts/?feedView=all"><img src="https://img.shields.io/badge/LnData_Inc-Backend_Developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101418" alt="LnData Inc on LinkedIn"></a>
-</p>
+| Period | Company | Role | Stack |
+| --- | --- | --- | --- |
+| 2026 - Present | [LnData Inc](https://www.linkedin.com/company/lndata/posts/?feedView=all) | Backend Developer (Part-time) | Java, Spring Boot |
+| Jun 2026 - Present | Bukalapak | Software Engineer, Core Team | TypeScript, Node.js, Koa, MySQL, AWS |
+| Sep 2025 - May 2026 | Quantum Teknologi Nusantara | Software Engineer | Python, FastAPI, RabbitMQ, Kubernetes, LLMs |
+| Apr 2025 - May 2025 | MarkAny | R&D Engineer (Apprenticeship) | C++, EDR, IDS |
+| Dec 2023 - Mar 2025 | PT Fata Organa Solusi<br><sub>Subholding of CAC Empath, Japan</sub> | Junior Software Engineer<br>Web Developer (Part-time) | C#, .NET, React, TypeScript, Azure |
+| May 2023 - Nov 2023 | Suitmedia Digital Agency | Software Engineer (Internship) | PHP Laravel, MySQL, Docker, NGINX |
 
 ## `~/toolbox`
 
