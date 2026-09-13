@@ -77,14 +77,14 @@ learning, building, debugging, improving
 gilang@linux:~$ cat experience.log
 ```
 
-| Period | Company | Role |
-| --- | --- | --- |
-| Aug 2026 - Present | LnData Inc | Backend Developer (Part-time) |
-| Jun 2026 - Present | Bukalapak | Software Engineer, Core Team |
-| Sep 2025 - May 2026 | Quantum Teknologi Nusantara | Founding Engineer |
-| Apr 2025 - May 2025 | MarkAny | R&D Engineer (Apprenticeship) |
-| Dec 2023 - Mar 2025 | PT Fata Organa Solusi<br><sub>Subholding of CAC Corp, Japan</sub> | Junior Software Engineer<br>Web Developer (Part-time) |
-| May 2023 - Nov 2023 | Suitmedia Digital Agency | Software Engineer (Internship) |
+| Period | Company | Role | Location |
+| --- | --- | --- | --- |
+| Aug 2026 - Present | LnData Inc | Backend Developer (Part-time) | Taipei, Taiwan · Remote |
+| Jun 2026 - Present | Bukalapak | Software Engineer, Core Team | Jakarta, Indonesia |
+| Sep 2025 - May 2026 | Quantum Teknologi Nusantara | Founding Engineer | Jakarta, Indonesia |
+| Apr 2025 - May 2025 | MarkAny | R&D Engineer (Apprenticeship) | Bandung, Indonesia |
+| Dec 2023 - Mar 2025 | PT Fata Organa Solusi<br><sub>Subholding of CAC Corp, Japan</sub> | Junior Software Engineer<br>Web Developer (Part-time) | Indonesia |
+| May 2023 - Nov 2023 | Suitmedia Digital Agency | Software Engineer (Internship) | Bandung, Indonesia |
 
 ## `~/toolbox`
 
